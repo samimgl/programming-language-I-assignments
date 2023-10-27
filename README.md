@@ -17,7 +17,7 @@ Cada projeto é uma oportunidade de aplicar os conceitos aprendidos e aprimorar 
 
 #### 1. Contador de Palavras
 
-- ê um texto/frase e conta o número de palavras presentes nele.
+- lê um texto/frase e conta o número de palavras presentes nele.
 
 #### 2. Lista Encadeada
 
