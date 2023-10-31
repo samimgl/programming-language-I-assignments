@@ -15,26 +15,26 @@ Cada projeto é uma oportunidade de aplicar os conceitos aprendidos e aprimorar 
 
 ## Projetos Disponíveis
 
-#### 1. Contador de Palavras
+#### <a href="https://github.com/samimgl/programming-language-I-assignments/blob/main/trabalho-1/ContadorDePalavras.c">1. Contador de Palavras</a>
 
 - lê um texto/frase e conta o número de palavras presentes nele.
 
-#### 2. Lista Encadeada
+#### <a href="https://github.com/samimgl/programming-language-I-assignments/blob/main/trabalho-2/ListaEncadeada.c">2. Lista Encadeada</a>
 
 - implementação de uma estrutura de dados de lista encadeada.
 
-#### 3. Calculadora de Determinante
+#### <a href="https://github.com/samimgl/programming-language-I-assignments/blob/main/trabalho-3/Matriz.c">3. Calculadora de Determinante</a>
 
 - um programa capaz de calcular o determinante de uma matriz
 
-#### 4. Calculadora de MDC
+#### <a href="https://github.com/samimgl/programming-language-I-assignments/blob/main/trabalho-4/MDC.c">4. Calculadora de MDC</a>
 
 - calcula o "Máximo Divisor Comum" entre dois números. 
 
-#### 5. PGM para Hexadecimal
+#### <a href="https://github.com/samimgl/programming-language-I-assignments/tree/main/trabalho-5">5. PGM para Hexadecimal</a>
 
 - lê um arquivo de imagem no formato PGM, extrai os dados da imagem e imprime os valores dos pixels no console em formato hexadecimal.
 
-#### 6. Contador de Caracteres + Linhas + Caracteres Imprimíveis
+#### <a href="https://github.com/samimgl/programming-language-I-assignments/tree/main/trabalho-6">6. Contador de Caracteres + Linhas + Caracteres Imprimíveis</a>
 
 - conta o número total de caracteres e linhas em um arquivo de texto, além de identificar e contar o número de caracteres imprimíveis, como letras, números e símbolos visíveis.
